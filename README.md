@@ -4,6 +4,9 @@
 [![Latest Docker Yag](https://img.shields.io/docker/v/groundnuty/k8s-wait-for?logo=docker)](https://microbadger.com/images/groundnuty/k8s-wait-for "Get your own version badge on microbadger.com")
 [![Latest Docker Tag Details](https://images.microbadger.com/badges/image/groundnuty/k8s-wait-for.svg?logo=docker)](https://microbadger.com/images/groundnuty/k8s-wait-for "Get your own image badge on microbadger.com")
 
+# NOTE
+This is used to wait for migration jobs during deployments to the k8s cluster
+
 # k8s-wait-for
 
 > This tool is still actively used and working stably despite not too frequent commits! Pull requests are most welcome!
