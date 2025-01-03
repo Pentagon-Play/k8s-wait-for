@@ -5,7 +5,7 @@
 [![Latest Docker Tag Details](https://images.microbadger.com/badges/image/groundnuty/k8s-wait-for.svg?logo=docker)](https://microbadger.com/images/groundnuty/k8s-wait-for "Get your own image badge on microbadger.com")
 
 # NOTE
-This is used to wait for migration jobs during deployments to the k8s cluster
+Copy of the image used for waiting for migrations
 
 # k8s-wait-for
 
